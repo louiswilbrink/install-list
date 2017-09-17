@@ -17,6 +17,7 @@
 - Sketch
 - Skype
 - Steam (`http://store.steampowered.com/`)
+- SkyFonts
 
 ## App Store
 
