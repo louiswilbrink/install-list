@@ -18,6 +18,7 @@
 - Skype
 - Steam (`http://store.steampowered.com/`)
 - SkyFonts
+- [Karabiner](https://pqrs.org/osx/karabiner/)
 
 ## App Store
 
