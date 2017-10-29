@@ -17,6 +17,7 @@
 - Sketch
 - Skype
 - Steam (`http://store.steampowered.com/`)
+- [Command & Conquer: Red Alert](https://cncnet.org/)
 - SkyFonts
 - [Karabiner](https://pqrs.org/osx/karabiner/)
 
