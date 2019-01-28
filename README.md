@@ -16,9 +16,9 @@
 - ScanSnap
 - Sketch
 - Skype
+- Postman (`https://www.getpostman.com/downloads/`)
 - Steam (`http://store.steampowered.com/`)
 - [Command & Conquer: Red Alert](https://cncnet.org/)
-- SkyFonts
 - [Karabiner](https://pqrs.org/osx/karabiner/)
 
 ## App Store
