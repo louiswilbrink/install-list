@@ -3,6 +3,7 @@
 ## Programs
 
 - iTerm (`https://www.iterm2.com`)
+- Homebrew (`https://brew.sh/`)
 - Chrome
 - Firefox
 - Adobe CC
@@ -26,7 +27,6 @@
 - XCode
 - Evernote
 - Slack
-- Flycut (Cut & Paste Manager)
 
 ## Homebrew Packages
 
@@ -36,10 +36,7 @@
 - MySQL
 - MongoDB
 - OpenSSL
-
-## Github
-
-- Vundle (https://github.com/VundleVim/Vundle.vim)
+- VSTS-CLI
 
 ## NPM Global packages
 
