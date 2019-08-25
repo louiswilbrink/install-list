@@ -4,6 +4,7 @@
 
 - iTerm (`https://www.iterm2.com`)
 - Homebrew (`https://brew.sh/`)
+- Node Version Manager (`https://github.com/nvm-sh`)
 - Chrome
 - Firefox
 - Adobe CC
@@ -30,7 +31,6 @@
 
 ## Homebrew Packages
 
-- Node Version Manager (`https://github.com/creationix/nvm`)
 - PostgreSQL
 - Redis
 - MySQL
